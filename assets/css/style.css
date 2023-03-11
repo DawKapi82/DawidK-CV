@@ -56,7 +56,7 @@ header {
 }
 
 .logo {
-    background: url("assets/images/logo.JPG");
+    background: url("../images/logo.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
